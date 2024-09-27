@@ -14,7 +14,7 @@
 
 ## Demo
 
-[Live Demo] https://github.com/MaaserMohammad/login-page.git
+[Live Demo]  (https://maasermohammad.github.io/login-page/)
 
 
 ## Installation
@@ -27,13 +27,6 @@
     `Animated login page`
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 - Switch between login and signup forms with animations.
 - Replace the background image by adding your own in the `images` folder and updating the CSS file.
 
