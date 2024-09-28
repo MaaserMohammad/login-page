@@ -32,7 +32,7 @@
 
 ## Screenshots
 
-![Desktop view]( ./image/loginpageview.mp4)
+.![Desktop view]  (./image/loginpageview.mp4)
 
 
 ## File Structure 
