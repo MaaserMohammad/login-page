@@ -29,23 +29,8 @@
 
 - Switch between login and signup forms with animations.
 - Replace the background image by adding your own in the `images` folder and updating the CSS file.
-
-## Screenshots
-
-.![Desktop view]  (./image/loginpageview.mp4)
-
-
-## File Structure 
-
-animated-login-page/
-├── images/
-│   └── kiwi.png
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── index.html
-
+ 
+ 
 ## Contributing
 
 Contributions are always welcome! 
