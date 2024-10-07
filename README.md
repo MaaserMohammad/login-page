@@ -32,19 +32,8 @@
 
 ## Screenshots
 
-.![Desktop view]  (./image/loginpageview.mp4)
-
-
-## File Structure 
-
-animated-login-page/
-├── images/
-│   └── kiwi.png
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── index.html
+![Desktop view]  (./image/loginpageview.mp4)
+ 
 
 ## Contributing
 
